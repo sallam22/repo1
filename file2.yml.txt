@@ -1,0 +1,3 @@
+line 1 master edit
+line 2 edit from branch
+line 3 edit after push rancj line 1 line 2
